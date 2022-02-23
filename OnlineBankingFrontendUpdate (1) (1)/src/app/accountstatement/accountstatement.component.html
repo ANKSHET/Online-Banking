@@ -1,0 +1,54 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+
+                <h2>Account Update</h2>
+                <br />
+                <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+
+                    <div class="form-group">
+                        <label for="accountNumber">Account Number:</label>
+                        <input formControlName="accountNumber" placeholder="Account Number" name="accountNumber"
+                            class="form-control" id="accountNumber">
+                        <div *ngIf="submitted && addForm.controls['accountNumber'].errors" class="error">
+                            <div class="text-danger" *ngIf="addForm.controls['accountNumber'].errors['required']">
+                                Account Number
+                                is required</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="accountType">Account Type:</label>
+                        <input formControlName="accountType" placeholder="account Type" name="accountType"
+                            class="form-control" id="accountType">
+                        <small *ngIf="addForm.get('accountType').invalid && addForm.get('accountType').touched"
+                            class="text-danger">account Type is Required</small>
+                        <div *ngIf="submitted && addForm.controls['accountType'].errors" class="error">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="balance">Last Name:</label>
+                        <input formControlName="balance" placeholder="balance" name="balance" class="form-control"
+                            id="balance">
+                        <small *ngIf="addForm.get('balance').invalid && addForm.get('balance').touched"
+                            class="text-danger">balance is Required</small>
+                        <div *ngIf="submitted && addForm.controls['balance'].errors" class="error">
+                        </div>
+                    </div>
+
+
+
+                    <!--<button class="btnbtn-success">Save</button>&nbsp; &nbsp;-->
+                    <button class="btn btn-success">Save</button>&nbsp; &nbsp;
+                    <button class="btn btn-danger" type="reset">Cancel</button>
+                    &nbsp; &nbsp;
+                    <a class="btnbtn-warning" href="/ListAcctstat">Back to List</a>
+
+                    <br /><br />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

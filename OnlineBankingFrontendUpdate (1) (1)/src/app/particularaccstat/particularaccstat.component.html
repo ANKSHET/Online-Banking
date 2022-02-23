@@ -1,0 +1,40 @@
+<br/>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+              <div class="text-center">
+                  <h3>Account Statement</h3>
+              </div>
+               <br/>
+                <table class="table">
+                <thead>
+                <tr>
+                <th><span class="names">Account Number</span></th>
+                <th><span class="names">Account Type</span></th>
+                <th><span class="names">Balance</span></th>
+                <!-- <th><span class="names">Action</span></th> -->
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td><span class="names">{{user.accountNumber}}</span></td>
+                <td><span class="names">{{user.accountType }}</span></td>
+                <td><span class="names">{{user.balance }}</span></td>
+
+               <!-- <button class="btn btn-info" style="margin:6px" (click)="editUser(user)"> Edit</button>
+               <button class="btn btn-danger"(click)="deleteUser(user)">Delete</button></td> -->
+ 
+
+               </tr>
+               <tr *ngIf="!user || users.length==0">
+                <th colspan="5">
+             <p class="text-right text-danger">Sorry No Account Details Available</p>
+             </th>
+             </tr>
+             </tbody>
+             </table>
+          </div>
+      </div>
+  </div>
+</div>

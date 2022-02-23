@@ -1,0 +1,121 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    /* background-image: url(../../assets/PurpleBackground.png); */
+  }
+  
+  p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+  }
+  article {
+    background:#1e565e;
+    /* background-image: url(../../assets/PurpleBackground.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+  
+  #sidebar {
+    /* don't forget to add all the previously mentioned styles here too */
+    background:#1e565e;
+    color: #fff;
+    transition: all 0.3s;
+  }
+  
+  #sidebar .sidebar-header {
+    padding: 20px;
+    background:#1e565e;
+  }
+  
+  #sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid whitesmoke;
+    border-top: aliceblue;
+  }
+  
+  #sidebar ul p {
+    color: #fff;
+    padding: 10px;
+  }
+  
+  #sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+  }
+  #sidebar ul li a:hover {
+    background:#1e565e;
+    background: #fff;
+  }
+  .wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+  }
+  .wrapper {
+    display: flex;
+    align-items: stretch;
+  }
+  
+  #sidebar {
+    background:#1e565e;
+    min-width: 250px;
+    max-width: 250px;
+  }
+  
+  #sidebar.active {
+    margin-left: -250px;
+  }
+  #sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+  }
+  a[data-toggle="collapse"] {
+    position: relative;
+  }
+  
+  .dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+  }
+  
+  .button {
+    background-color:#1e565e; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  
+  #sidebar ul li.active > a, a[aria-expanded="true"] {
+    color: #fff;
+    background:#5e67ec;
+  }
+  ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background:#5e67ec;
+  }
+  @media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+  }

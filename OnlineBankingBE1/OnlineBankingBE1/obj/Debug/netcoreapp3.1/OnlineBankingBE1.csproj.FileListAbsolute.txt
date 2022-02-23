@@ -1,0 +1,287 @@
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.AssemblyInfoInputs.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.AssemblyInfo.cs
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.csproj.CoreCompileInputs.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.MvcApplicationPartsAssemblyInfo.cs
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.MvcApplicationPartsAssemblyInfo.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBankingBE1.StaticWebAssets.Manifest.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBankingBE1.StaticWebAssets.xml
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineBankingBE1.styles.css
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.RazorTargetAssemblyInfo.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.pdb
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.exe
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.deps.json
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.runtimeconfig.json
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.runtimeconfig.dev.json
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.pdb
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.csproj.CopyComplete
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.genruntimeconfig.cache
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Case study\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.csproj.AssemblyReference.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.exe
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.deps.json
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.runtimeconfig.json
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.runtimeconfig.dev.json
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\OnlineBankingBE1.pdb
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.csproj.AssemblyReference.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.AssemblyInfoInputs.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.AssemblyInfo.cs
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.csproj.CoreCompileInputs.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.MvcApplicationPartsAssemblyInfo.cs
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.MvcApplicationPartsAssemblyInfo.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBankingBE1.StaticWebAssets.Manifest.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\staticwebassets\OnlineBankingBE1.StaticWebAssets.xml
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineBankingBE1.styles.css
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.RazorTargetAssemblyInfo.cache
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.dll
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.pdb
+C:\OnlineBanking\OnlineBankingBE1\OnlineBankingBE1\obj\Debug\netcoreapp3.1\OnlineBankingBE1.genruntimeconfig.cache

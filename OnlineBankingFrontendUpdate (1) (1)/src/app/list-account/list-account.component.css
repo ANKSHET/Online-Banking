@@ -1,0 +1,11 @@
+.card{
+    border:none;
+    top:40%;
+    left:60%;
+    padding:40px;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    background:#5eecec;
+    background:linear-gradient(90deg,rgb(240, 235, 166) 0%, rgb(200, 176, 248) 100%);
+    }
+    .names { font-weight: bold; }

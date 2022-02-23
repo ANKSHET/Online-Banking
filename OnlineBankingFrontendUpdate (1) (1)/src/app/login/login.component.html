@@ -1,0 +1,52 @@
+<div class="card" id="darkModalForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <form [formGroup]="loginForm" (ngSubmit)="doLogin()">
+    <div class="modal-dialog form-dark" role="document">
+      <!--Content-->
+      <div class="modal-content card card-image" style="background-color:lightslategray;">
+        <div class="text-white rgba-stylish-strong py-5 px-5 z-depth-4">
+          <!--Header-->
+          <div class="modal-header text-center pb-4">
+            <h3 class="modal-title w-100 white-text font-weight-bold" id="myModalLabel"><strong>Internet Banking Login</strong> 
+              <!-- <a class="green-text font-weight-bold"><strong> IN</strong></a> -->
+              </h3>
+            <!-- <button  class="close white-text" type="submit" [disabled]="!loginForm.valid">
+              <span aria-hidden="true">&times;</span>
+            </button> -->
+          </div>
+          <!--Body-->
+          <div class="modal-body">
+            <!--Body-->
+            <div class="md-form mb-5">
+              <label data-error="wrong" data-success="right" for="Form-email5">Account Number:</label>
+              <input type="accountNumber" id="Form-email5" class="form-control validate white-text" formControlName="accountNumber">
+              <small *ngIf="loginForm.get('accountNumber').invalid && loginForm.get('accountNumber').touched" class="text-danger">Account Number is Required</small>
+            </div>
+
+            <div class="md-form pb-3">
+              <label data-error="wrong" data-success="right" for="Form-pass5">Your password:</label>
+              <input type="password" id="Form-pass5" class="form-control validate white-text" formControlName="loginPassword">
+              <small *ngIf="loginForm.get('loginPassword').invalid && loginForm.get('loginPassword').touched" class="text-danger">Password is Required</small>
+              
+            </div>
+            <!--Grid row-->
+            <div class="row d-flex align-items-center mb-4">
+
+              <!--Grid column-->
+              <div class="text-center mb-3 col-md-12">
+                <button type="submit" class="btn btn-success btn-block btn-rounded z-depth-1">Sign in</button>
+              </div>
+              <!--Grid column-->
+              <a routerLink="/internetbanking" routerLinkActive="active" style="margin:10px">Register for Internet Banking?</a>
+              <a routerLink="/forgotpassword" routerLinkActive="active" style="margin:10px">Forgot Password?</a>
+              <!-- <a routerLink="/forgotuserid" routerLinkActive="active" style="margin:10px">Forgot User ID?</a> -->
+            </div>
+            <!--Grid row-->
+
+          </div>
+        </div>
+      </div>
+      <!--/.Content-->
+    </div>
+  </form>
+</div>
+<!-- Modal -->

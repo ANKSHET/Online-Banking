@@ -1,0 +1,57 @@
+<br/>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+              <div class="text-center">
+                  <h3>Account Details</h3>
+              </div>
+               <br/>
+                <table class="table">
+                <thead>
+                <tr>
+                <th><span class="names">Account Number</span></th>
+                <th><span class="names">First Name</span></th>
+                <th><span class="names">Middle Name</span></th>
+                <th><span class="names">Last Name</span></th>
+                <th><span class="names">Father's Name</span></th>
+                <th><span class="names">Phone Number</span></th>
+                <th><span class="names">Email</span></th>
+                <th><span class="names">Aadhar Number</span></th>
+                <th><span class="names">Date of Birth</span></th>
+                <th><span class="names">Address</span></th>
+                <th><span class="names">Occupation Details</span></th>
+                <!-- <th><span class="names">Action</span></th> -->
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td><span class="names">{{user.accountNumber}}</span></td>
+                <td><span class="names">{{user.firstName }}</span></td>
+                <td><span class="names">{{user.middleName }}</span></td>
+                <td><span class="names">{{user.lastName }}</span></td>
+                <td><span class="names">{{user.fathersName }}</span></td>
+                <td><span class="names">{{user.phoneNumber }}</span></td>
+                <td><span class="names">{{user.emailId }}</span></td>
+                <td><span class="names">{{user.aadharNumber }}</span></td>
+                <td><span class="names">{{user.dob }}</span></td>
+                <td><span class="names">{{user.address }}</span></td>
+                <td><span class="names">{{user.occupationDetails }}</span></td>
+                 <td>
+
+               <!-- <button class="btn btn-info" style="margin:6px" (click)="editUser(user)"> Edit</button>
+               <button class="btn btn-danger"(click)="deleteUser(user)">Delete</button></td> -->
+ 
+
+               </tr>
+               <tr *ngIf="!user || users.length==0">
+                <th colspan="5">
+             <p class="text-right text-danger">Sorry No Account Details Available</p>
+             </th>
+             </tr>
+             </tbody>
+             </table>
+          </div>
+      </div>
+  </div>
+</div>

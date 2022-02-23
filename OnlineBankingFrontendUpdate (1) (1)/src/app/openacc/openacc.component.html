@@ -1,0 +1,103 @@
+<div class="container">
+    <div class="row">
+    <div class="col-md-6">
+        <div class="card">
+       
+    <h2>Add Account</h2>
+    <br/>
+    <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+    
+        <div class="form-group" [ngClass]="{'has-error' : addForm.get('firstName').errors}">
+            <label for="firstName">First Name:</label>
+            <input formControlName="firstName"placeholder="First Name"name="firstName"class="form-control"id="firstName">
+            <small *ngIf="addForm.get('firstName').invalid && addForm.get('firstName').touched" class="text-danger">FirstName is Required</small>
+            <div *ngIf="submitted && addForm.controls['firstName'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="middleName">Middle Name:</label>
+            <input formControlName="middleName"placeholder="Middle Name"name="middleName"class="form-control"id="middleName">
+            <small *ngIf="addForm.get('middleName').invalid && addForm.get('middleName').touched" class="text-danger">MiddleName is Required</small>
+            <div *ngIf="submitted && addForm.controls['middleName'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="lastName">Last Name:</label>
+            <input formControlName="lastName"placeholder="Last name"name="lastName"class="form-control"id="lastName">
+            <small *ngIf="addForm.get('lastName').invalid && addForm.get('lastName').touched" class="text-danger">LastName is Required</small>
+            <div *ngIf="submitted && addForm.controls['lastName'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="fathersName">Father's Name:</label>
+            <input formControlName="fathersName"placeholder="Father name"name="fathersName"class="form-control"id="fathersName">
+            <small *ngIf="addForm.get('fathersName').invalid && addForm.get('fathersName').touched" class="text-danger">Father's Name is Required</small>
+            <div *ngIf="submitted && addForm.controls['fathersName'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="phoneNumber">Phone Number:</label>
+            <input formControlName="phoneNumber"placeholder="Phone Number"name="phoneNumber"class="form-control"id="phoneNumber">
+            <small *ngIf="addForm.get('phoneNumber').invalid && addForm.get('phoneNumber').touched" class="text-danger">PhoneNumber is Required(min length 10 & max length 10)</small>
+            <div *ngIf="submitted && addForm.controls['phoneNumber'].errors"class="error">
+            <!--<div class="text-danger" *ngIf="addForm.controls['phoneNumber'].errors['required']">Phone Number is required</div>-->
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="emailId">Email address:</label>
+            <input formControlName="emailId"placeholder="Email Id"name="emailId"class="form-control"id="emailId">
+            <small *ngIf="addForm.get('emailId').invalid && addForm.get('emailId').touched" class="text-danger">EmailId is Required(It should match the pattern)</small>
+            <div *ngIf="submitted && addForm.controls['emailId'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+            <label for="aadharNumber">Aadhar Number:</label>
+            <input formControlName="aadharNumber"placeholder="Aadhar Number"name="aadharNumber"class="form-control"id="aadharNumber">
+            <small *ngIf="addForm.get('aadharNumber').invalid && addForm.get('aadharNumber').touched" class="text-danger">Aadhar Number is Required(ex: xxxx xxxx xxxx)</small>
+            <div *ngIf="submitted && addForm.controls['aadharNumber'].errors"class="error">
+            </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="dob">Date of Birth:</label>
+                <input type="date" formControlName="dob"placeholder="yyyy-mm-dd" name="dob"class="form-control"id="dob">
+                <small *ngIf="addForm.get('dob').invalid && addForm.get('dob').touched" class="text-danger">Date of Birth is Required </small>
+                <div *ngIf="submitted && addForm.controls['dob'].errors"class="error">
+                </div>
+            </div>    
+            
+            <div class="form-group">
+                <label for="address">Address:</label>
+                <input formControlName="address"placeholder="Address"name="address"class="form-control"id="address">
+                <small *ngIf="addForm.get('address').invalid && addForm.get('address').touched" class="text-danger">Address is Required</small>
+                <div *ngIf="submitted && addForm.controls['address'].errors"class="error">
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="occupationDetails">Occupation Details:</label>
+                <input formControlName="occupationDetails"placeholder="Occupation Details"name="occupationDetails"class="form-control"id="occupationDetails">
+                <small *ngIf="addForm.get('occupationDetails').invalid && addForm.get('occupationDetails').touched" class="text-danger">Occupation is Required</small>
+                <div *ngIf="submitted && addForm.controls['occupationDetails'].errors"class="error">
+                </div>
+            </div>
+            
+    
+    <!--<button class="btnbtn-success">Save</button>&nbsp; &nbsp;-->
+    <button class="btn btn-success">Save</button>&nbsp; &nbsp;
+    <button class="btn btn-danger"type="reset">Cancel</button>
+    &nbsp; &nbsp;
+    <a class="btnbtn-warning"href="/list-account">Back to List</a>
+    
+    <br/><br/>
+    </form>
+    </div>
+    </div>
+    </div>
+    </div>

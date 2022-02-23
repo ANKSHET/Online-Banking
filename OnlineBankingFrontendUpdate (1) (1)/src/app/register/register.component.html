@@ -1,0 +1,53 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h1>Register</h1>
+                  
+                    
+                    <h5>Register For Internet Banking</h5><hr>
+                </div>
+                
+                    <form [formGroup] ="formValue" >
+                    <div class="mb-3">
+                      <label for="exampleInputEmail1" class="form-label">Account Number</label>
+                      <input type ="number" formControlName="Account Number" placeholder="Enter your Account Number" type="Account Number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    </div>
+                    
+                    <div class="mb-3">
+                      <label for="exampleInputPassword1" class="form-label">Set Login Password</label>
+                      <input type ="number" formControlName="Login password" placeholder="Set your Login Password" type="Login password" class="form-control" id="exampleInputPassword1">
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Confirm Login Password</label>
+                        <input type ="number" formControlName="Login password" placeholder="Confirm your Login Password" type="Login password" class="form-control" id="exampleInputPassword1">
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Set Transaction Password</label>
+                        <input type ="number" formControlName="Set Transaction Password" placeholder="Set your Transaction Password" type="Transaction password" class="form-control" id="exampleInputPassword1">
+                      </div>
+                      
+                      <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Confirm Transaction Password</label>
+                        <input type ="number" formControlName="Transaction password" placeholder="Confirm your Transaction Password" type="Transaction password" class="form-control" id="exampleInputPassword1">
+                      </div>
+                      
+                      <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Enter OTP - </label>
+                        <input type ="number" formControlName="Enter OTP" placeholder="Enter your OTP" type="Enter OTP" class="form-control" id="exampleInputPassword1">
+                      </div>
+                      
+                    <button type="button" (click)="postUserDetails()" class="btn btn-primary">Submit</button>
+                    
+                  </form>
+                  <a routerLink="/openacc" routerLinkActive="active" style="margin:10px">Open Savings Account</a>
+                 <!-- <a style="color: rgb(40, 26, 165); margin-top: 10px;"[routerLink]="['/openacc']">Open a Savings Account </a>-->
+                  
+            </div>
+        </div>
+    
+       </div>
+       </div>

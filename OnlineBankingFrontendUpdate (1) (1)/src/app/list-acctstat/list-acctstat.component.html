@@ -1,0 +1,35 @@
+<br/><br/>
+<div class="col-lg-12">
+<h2> All Account Statement</h2>
+<br/>
+<!-- <button class="btnbtn-success" (click)="addUser()"> Add User</button>&nbsp;&nbsp; -->
+<!-- <button class="btnbtn-danger" (click)="logOutUser()">LogOff</button> -->
+<br/><br/>
+<table class="table table-striped table-responsive table-hover">
+<thead>
+<tr>
+<!-- <th>Account Statement ID</th> -->
+<th >Account Number</th>
+<th>Account Type</th>
+<th>Account Balance</th>
+
+</tr>
+</thead>
+<tbody>
+<tr *ngFor="let Accontstat of users">
+<!-- <td>{{Accontstat.accountStatId}}</td> -->
+<td>{{Accontstat.accountNumber}}</td>
+<td>{{Accontstat.accountType }}</td>
+<td>{{Accontstat.balance }}</td>
+
+ <td><button class="btnbtn-danger"(click)="deleteUser(Accontstat)"> Delete</button> 
+ <!--<button class="btnbtn-warning"(click)="editUser(Accontstat)"style="margin-left: 20px;"> Edit</button></td> -->
+</tr>
+<tr *ngIf="!users || users.length==0">
+<th colspan="5">
+<p class="text-right text-danger">Sorry No Account Statement Available</p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>

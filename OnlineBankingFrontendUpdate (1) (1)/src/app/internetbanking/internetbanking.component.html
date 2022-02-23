@@ -1,0 +1,93 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+
+
+                <h2>Internet Banking Registration</h2>
+                <br />
+                <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+
+                    <div class="form-group">
+                        <label for="accountNumber">Account Number:</label>
+                        <input formControlName="accountNumber" placeholder="Account Number" name="accountNumber"
+                            class="form-control" id="accountNumber">
+                        <div *ngIf="submitted && addForm.controls['accountNumber'].errors" class="error">
+                            <div class="text-danger" *ngIf="addForm.controls['accountNumber'].errors['required']">Account Number
+                                 is required</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="loginPassword">Set Login password:</label>
+                        <input type="password"formControlName="loginPassword" placeholder="Login password" name="loginPassword"
+                            class="form-control" id="loginPassword">
+                        <div *ngIf="submitted && addForm.controls['loginPassword'].errors" class="error">
+                            <div class="text-danger" *ngIf="addForm.controls['loginPassword'].errors['required']"> Login password
+                                 is required</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="confirmLoginPassword">Confirm Login password:</label>
+                        <input type="password"formControlName="confirmLoginPassword" placeholder="Confirm Login password"
+                            name="confirmLoginPassword" class="form-control" id="confirmLoginPassword">
+                        <div *ngIf="submitted && addForm.controls['confirmLoginPassword'].errors" class="error">
+                            <div class="text-danger"
+                                *ngIf="addForm.controls['confirmLoginPassword'].errors['required']">This field is required</div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="form-group">
+                        <label for="transactionPassword">Transaction Login password:</label>
+                        <input formControlName="transactionPassword" placeholder="Transaction Login password"
+                            name="transactionPassword" class="form-control" id="transactionPassword">
+                        <div *ngIf="submitted && addForm.controls['transactionPassword'].errors" class="error">
+                            <div class="text-danger" *ngIf="addForm.controls['transactionPassword'].errors['required']">
+                                This field is required</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="confirmTransactionPassword">Confirm Transaction Login password:</label>
+                        <input formControlName="confirmTransactionPassword"
+                            placeholder="Confirm Transaction Login password" name="confirmTransactionPassword"
+                            class="form-control" id="confirmTransactionPassword">
+                        <div *ngIf="submitted && addForm.controls['confirmTransactionPassword'].errors" class="error">
+                            <div class="text-danger"
+                                *ngIf="addForm.controls['confirmTransactionPassword'].errors['required']">This field is required</div>
+                        </div>
+                    </div> -->
+                    <label for="exampleInputUserid" class="form-label">Select Secret Question:</label>
+                    <select select class="form-control" id="secretQuestion" placeholder="Please select Secret Question"
+                        name="secretQuestion">
+                        <option value="petName">Name of your first Pet?</option>
+                        <option value="hospital">Hospital your born in?</option>
+                        <option value="favMovie">Your Favorite Movie?</option>
+                        <option value="secret">Or a secret you Know?</option>
+                    </select>
+
+
+
+                    <div class="mb-3">
+                        <label for="exampleInputUserid" class="form-label">Enter Secret Answer:</label>
+                        <label for="exampleInputUserid" class="form-label">Please Don't share this Answer</label>
+                        <input formControlName="answer" placeholder="Enter Your Secret Answer" class="form-control"
+                            id="answer">
+                        <small *ngIf="addForm.get('answer').invalid && addForm.get('answer').touched"
+                            class="text-danger">Answer is Required</small>
+                        <div *ngIf="submitted && addForm.controls['answer'].errors" class="error">
+                        </div>
+                    </div>
+
+                    <button class="btn btn-success" style="margin-top:10px">Save</button>&nbsp; &nbsp;
+                    <button class="btn btn-danger" type="reset" style="margin-top:10px">Cancel</button>
+                    &nbsp; &nbsp;
+                    <a class="btnbtn-warning" href="/list-account" style="margin-top:10px">Back to List</a>
+
+                    <br /><br />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

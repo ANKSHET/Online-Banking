@@ -1,0 +1,64 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h3>NEFT Transaction</h3>
+                    <p>Enter Details</p>
+                </div>
+
+                <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+                    <div class="mb-3">
+                        <input formControlName="fromAccount" placeholder="From Account" type="fromAccount"
+                            class="form-control" id="fromAccount">
+                        <small *ngIf="addForm.get('fromAccount').invalid && addForm.get('fromAccount').touched"
+                            class="text-danger">AccountNumber is Required</small>
+                        <div *ngIf="submitted && addForm.controls['fromAccount'].errors" class="error">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <input formControlName="toAccount" placeholder="To Account" type="toAccount"
+                            class="form-control" id="toAccount">
+                        <small *ngIf="addForm.get('toAccount').invalid && addForm.get('toAccount').touched"
+                            class="text-danger">AccountNumber is Required</small>
+                        <div *ngIf="submitted && addForm.controls['toAccount'].errors" class="error">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <input formControlName="amount" placeholder="Enter the Amount" type="amount"
+                            class="form-control" id="amount">
+                        <small *ngIf="addForm.get('amount').invalid && addForm.get('amount').touched"
+                            class="text-danger">Amount is Required</small>
+                        <div *ngIf="submitted && addForm.controls['amount'].errors" class="error">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <input formControlName="transactionDate" placeholder="Enter Transaction Date" type="Date-local"
+                            class="form-control" id="transactionDate">
+                        <small *ngIf="addForm.get('transactionDate').invalid && addForm.get('transactionDate').touched"
+                            class="text-danger">Transaction Date is Required</small>
+                        <div *ngIf="submitted && addForm.controls['transactionDate'].errors" class="error">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <input formControlName="remarks" placeholder="Enter Remarks" type="remarks" class="form-control"
+                            id="remarks">
+                        <small *ngIf="addForm.get('remarks').invalid && addForm.get('remarks').touched"
+                            class="text-danger">Remarks is Required</small>
+                        <div *ngIf="submitted && addForm.controls['remarks'].errors" class="error">
+                        </div>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-success btn-block btn-rounded z-depth-1">Submit</button>
+
+                    <!-- <button type="submit" class="btn btn-primary"  style="margin:10px">Back</button> -->
+
+
+                </form>
+
+                <!-- <a style="color: rgb(40, 26, 165); margin-top: 10px;"[routerLink]="['/setnewpassword']"> </a>-->
+            </div>
+        </div>
+    </div>
+</div>

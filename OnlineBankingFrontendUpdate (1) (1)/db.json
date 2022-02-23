@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "accountnumber": "001",
+      "setloginpassword": "123",
+      "confirmloginpassword": "123",
+      "settransactionpassword": "456",
+      "confirmtransactionpassword": "456",
+      "otp": "7856"
+    },
+    {
+      "id": 2,
+      "accountnumber": "002",
+      "setloginpassword": "789",
+      "confirmloginpassword": "789",
+      "settransactionpassword": "102",
+      "confirmtransactionpassword": "102",
+      "otp": "8596"
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 3
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 4
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 5
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 6
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 7
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 8
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 9
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 10
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 11
+    },
+    {
+      "setloginpassword": "",
+      "confirmloginpassword": "",
+      "settransactionpassword": "",
+      "confirmtransactionpassword": "",
+      "otp": "",
+      "id": 12
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
